@@ -50,17 +50,6 @@ Trained and evaluated the following models:
 - Ready to be uploaded to the Kaggle competition portal
 
 ---
-
-## 📈 Metric Used
-
-Evaluation is based on RMSE of the log of predicted SalePrice values:
-
-\[
-\text{RMSE} = \sqrt{\frac{1}{n} \sum (\log(\hat{y}) - \log(y))^2}
-\]
-
----
-
 ## 🛠 Tools & Technologies
 
 - Python
